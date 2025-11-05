@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "id": "cf3996cb-bbc8-4890-b09f-def20cb6f323",
+      "cell_type": "markdown",
+      "source": "# Data Science Tools and Ecosystem",
+      "metadata": {}
+    },
+    {
+      "id": "a9fc111d-bb9f-45c1-9fa6-d392e45c9569",
+      "cell_type": "markdown",
+      "source": "In this notebook, we summarize some of the key tools and concepts learned in the Data Science Tools course. \nWe will list popular programming languages, libraries, and tools used by data scientists, and also perform simple arithmetic operations using Python.",
+      "metadata": {}
+    },
+    {
+      "id": "4000573c-6d76-4547-a7b8-ed2f2222d5fd",
+      "cell_type": "markdown",
+      "source": "## Data Science Languages\nSome of the popular languages that Data Scientists use are:\n1. Python\n2. R\n3. SQL\n4. Julia\n5. Scala",
+      "metadata": {}
+    },
+    {
+      "id": "ca365fcb-d223-4a13-9e87-e5492aa3ead2",
+      "cell_type": "markdown",
+      "source": "## Data Science Libraries\nSome of the commonly used libraries used by Data Scientists include:\n1. Pandas\n2. NumPy\n3. Matplotlib\n4. Scikit-learn\n5. TensorFlow\n",
+      "metadata": {}
+    },
+    {
+      "id": "fbb68c5d-fd1f-49e1-ac80-b65f3bdf7af7",
+      "cell_type": "markdown",
+      "source": "## Data Science Tools\n\n| Tool | Category | Description |\n|------|-----------|-------------|\n| Jupyter Notebook | IDE | Interactive computing environment |\n| RStudio | IDE | R programming environment |\n| Apache Spark | Framework | Big data processing |\n| TensorFlow | Library | Deep learning library |",
+      "metadata": {}
+    },
+    {
+      "id": "809e3599-e9d6-4fec-a22d-47d3b16b3444",
+      "cell_type": "markdown",
+      "source": "### Examples of evaluating arithmetic expressions in Python\nBelow are examples of simple arithmetic operations such as addition and multiplication.",
+      "metadata": {}
+    },
+    {
+      "id": "b896f965-83a6-4487-af6c-d12c18a60f81",
+      "cell_type": "code",
+      "source": "(3 * 4) + 5",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "6360a868-aeee-4677-a2ea-41d6387fba0c",
+      "cell_type": "code",
+      "source": "minutes = 200\nhours = minutes / 60\nhours",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 1,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "3.3333333333333335"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 1
+    },
+    {
+      "id": "f618fe3b-5507-4f75-9cf0-ec7cd276e3cd",
+      "cell_type": "markdown",
+      "source": "## Objectives\nIn this notebook, you will learn:\n- Popular Data Science languages  \n- Commonly used libraries in Data Science  \n- Examples of Data Science tools  \n- Simple arithmetic expressions using Python  \n- Converting time units from minutes to hours",
+      "metadata": {}
+    },
+    {
+      "id": "34d238de-ccfb-4f91-9298-c3887494b89a",
+      "cell_type": "markdown",
+      "source": "## Author\n**Lakshay Sharma**",
+      "metadata": {}
+    }
+  ]
+}
